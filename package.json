@@ -1,0 +1,11 @@
+{
+  "name": "lbplayground",
+  "version": "1.0.0",
+  "description": "foo bar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leo Balter",
+  "license": "ISC"
+}
